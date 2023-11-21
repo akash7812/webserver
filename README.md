@@ -60,9 +60,9 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-## server output
-![serveroutput](./serveroutput.png)
 ## client output
+![serveroutput](./serveroutput.png)
+## server output
 ![clientoutput](./clientoutput.png)
 
 ## RESULT:
