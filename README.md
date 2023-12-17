@@ -41,6 +41,8 @@ content='''
 <h2>1.Django</h2>
 <h2>2. MEAN Stack</h2>
 <h2>3. React </h2>
+<h2>4. MERN Stact</h2>
+<h2>5. Angular</h2>
 </body>
 </html>
 '''
@@ -61,7 +63,10 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ## client output
+![output](https://github.com/akash7812/webserver/assets/146819826/bf5bf13b-82dc-45a1-9b47-407a73743017)
+
 ## server output
+![output](https://github.com/akash7812/webserver/assets/146819826/816593f9-0169-4b7b-9704-9621f3ade48e)
 
 ## RESULT:
 The program is executed succesfully
